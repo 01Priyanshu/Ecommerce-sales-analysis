@@ -2,6 +2,18 @@
 
 A Power BI report analyzing sales performance for an e-commerce store, built from order and transaction-level data.
 
+## Dashboard Preview
+
+![Madhav Ecommerce Sales Dashboard](dashboard-screenshot.png)
+
+The dashboard includes:
+- **KPI cards** — Sum of Amount, Sum of Quantity, Sum of AOV
+- **Sum of Amount by State** and **by CustomerName**
+- **Sum of Quantity by Category** and **by PaymentMode** (donut charts)
+- **Profit by Month** (Jan–Dec trend)
+- **Sum of Profit by Sub-Category**
+- **Quarter and category slicers** for interactive filtering
+
 ## Contents
 
 | File | Description |
